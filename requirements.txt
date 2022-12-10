@@ -1,4 +1,4 @@
-Bio==1.5.2
+biopython
 pandas==1.5.2
 regex==2022.10.31
 streamlit==1.15.2
